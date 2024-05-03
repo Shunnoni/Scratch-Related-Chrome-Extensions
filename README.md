@@ -7,3 +7,4 @@ It is maybe not the best option, but I am new to the whole chrome extensions thi
 WAIT JUST A MINUTE! I forgot to mention how to use this! Go to this link :
 chrome://extensions/
 After that turn on developer mode. Click "Load unpacked" and select the file.
+It also must be a folder, not a .zip file!
